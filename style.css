@@ -1,9 +1,17 @@
-p{
-   text-indent: 50px;
-   text-align: justify;
-   width: 350px;
+#n1{
+   text-decoration: overline;
+   color: red;
 }
-
+#n2{
+	text-decoration: line-through;
+	color: green;
+}
+#n3{
+	text-decoration: underline;
+}
+a {
+	text-decoration: none;
+}
  
  
 
