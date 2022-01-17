@@ -1,16 +1,4 @@
-h3{
-	color:#e80c0c;
-}
-
-h2{
-    color:#11a7f7;	
-}
-
-h1{
- color: #025e2b;	
-}
-
-p{
- color: rgb(214, 15, 151);	
- width:300px;
+td{
+	width:400px;
+	height:300px;
 }
