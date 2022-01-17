@@ -1,4 +1,27 @@
-td{
-	width:400px;
-	height:300px;
+h1{
+	text-align:right;
 }
+
+h2{
+	width: 300px;
+	text-align: center;
+}
+
+table{
+	width:500px;
+}
+
+th{
+	text-align:left;
+}
+
+td{
+	text-align:right;
+}
+ p{
+	 width:300px;
+	 text-align: justify;
+ }
+ 
+ 
+
