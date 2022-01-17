@@ -1,17 +1,31 @@
-#n1{
-   text-decoration: overline;
-   color: red;
+h1 {
+    width: 500px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
 }
-#n2{
-	text-decoration: line-through;
-	color: green;
-}
-#n3{
-	text-decoration: underline;
-}
-a {
-	text-decoration: none;
-}
- 
- 
 
+h2 {
+    width: 500px;
+    text-align: center;
+    color: green;
+    font-weight: normal;
+    font-size: 30px;
+}
+	
+
+
+p {
+    width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+}
+ul {
+    width: 400px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+}
