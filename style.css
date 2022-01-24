@@ -1,9 +1,11 @@
-.red{
-	color: red;
+.eee{
+	font-size: 20px;
 }
-.green{
-	color: green;
+.zzz{
+    font-size: 30px;
 }
-.blue{
-	color: blue;
+
+.eee, .zzz{
+	line-height: 1.5;
+	font-family: Arial;
 }
