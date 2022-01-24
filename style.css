@@ -1,4 +1,4 @@
-.bbb, .xxx{
+#block p.bbb, #block p.xxx{
 	color:red;
 	font-size: 40px
 }
