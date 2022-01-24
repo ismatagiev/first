@@ -1,12 +1,11 @@
-.red{
+#elem1{
 	color:red;
-
 }
 
-.large{
-	font-size: 40px;
+#elem2{
+	color:green;
 }
 
-.center{
-	text-align: center;
+#elem3{
+	color:blue;
 }
