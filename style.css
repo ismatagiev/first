@@ -1,9 +1,5 @@
-a{
-	color:blue;
-	text-decoration: none;
-}
-
-a:hover{
-	text-decoration: none;
-    color: red;
+#elem{
+	border: 1px solid red;
+	width: 200px;
+    padding: 50px 30px 100px;
 }
