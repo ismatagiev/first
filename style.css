@@ -1,9 +1,7 @@
-a{
-	color:blue;
-	text-decoration: none;
+#elem{
+	text-align: justify;
+	width: 250px;
+	border: 1px solid red;
+	padding: 10px 20px 30px 40px;
 }
 
-a:hover{
-	text-decoration: none;
-    color: red;
-}
