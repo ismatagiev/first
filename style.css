@@ -3,9 +3,13 @@
 	border:1px dashed blue;
 }
 
-#child{
-	
-	margin: 50px;
-	height: 300px;
-	border:1px solid orange;
+#child_1{	
+	margin: 25px;
+	border:1px dashed green;
+}
+
+#child_2{
+    margin:25px;
+    height: 200px;
+    border: 1px solid red;
 }
