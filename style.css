@@ -1,9 +1,7 @@
-a{
+p{
 	color:blue;
 	text-decoration: none;
+	border: 1px solid blue;
+	display: inline;
 }
 
-a:hover{
-	text-decoration: none;
-    color: red;
-}
