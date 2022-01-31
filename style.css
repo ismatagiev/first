@@ -1,9 +1,10 @@
-a{
+.parent {
+	padding: 10px 0;
+	border: 1px solid red;
 	color:blue;
-	text-decoration: none;
+	text-align: center;
 }
 
-a:hover{
-	text-decoration: none;
-    color: red;
+a{
+	border: 1px solid red;
 }
