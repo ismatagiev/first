@@ -1,9 +1,18 @@
-a{
-	color:blue;
-	text-decoration: none;
+#elem1{
+	width: 150px;
+	height: 50px;
+	border: 4px solid #ccd613;
+	padding: 20px 10px;
+
 }
 
-a:hover{
-	text-decoration: none;
-    color: red;
+#elem2{
+	margin-top: 40px;
+	height: 50px;
+	width: 150px;
+	border: 4px solid #225ce3;
+	padding: 20px 10px;
+    box-sizing: border-box;
 }
+
+
