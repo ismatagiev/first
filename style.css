@@ -6,6 +6,6 @@
 #child{
 	height: 100px;
 	border: 1px dashed blue;
-    margin:25px 50px;
+    margin:100px 50px 25px;
 }
 
