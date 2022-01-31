@@ -1,9 +1,8 @@
-a{
-	color:blue;
-	text-decoration: none;
+p {
+	border: 1px solid red;
 }
 
-a:hover{
-	text-decoration: none;
-    color: red;
+h1{
+	text-align: center;
+	color: red;
 }
