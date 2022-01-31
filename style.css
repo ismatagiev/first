@@ -1,4 +1,9 @@
-#block p.bbb, #block p.xxx{
-	color:red;
-	font-size: 40px
+a{
+	color:blue;
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: none;
+    color: red;
 }
