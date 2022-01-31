@@ -1,5 +1,12 @@
-#elem{
-	width: 200px;
-	border: 1px solid red;
-	padding: 50px
+#elem_1{
+	width: 500px;
+	border: 1px solid green;
+	padding: 20px;
+}
+
+#elem_2{
+	width: 300px;
+	margin: 25px 50px;
+    padding: 10px;
+    border: 1px solid red;
 }
