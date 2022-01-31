@@ -1,9 +1,24 @@
-a{
-	color:blue;
-	text-decoration: none;
+.parent{
+	border: 1px solid red;
 }
 
-a:hover{
-	text-decoration: none;
-    color: red;
+.child1{
+	border: 1px solid green;
+	width: 100px;
+	height: 50px;
+	margin: 15px auto;
+}
+
+.child2{
+	border: 1px solid green;
+	height: 50px;
+    width: 150px;
+	margin: 15px auto;
+}
+
+.child3{
+	border: 1px solid green;
+	height: 50px;
+	width: 200px;
+	margin: 15px auto;
 }
