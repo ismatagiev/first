@@ -1,5 +1,4 @@
 #elem {
     width: 300px;
     height: 200px;
-    border: 1px solid red;
-}
+    border: 2px dotted blue;
