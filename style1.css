@@ -1,28 +1,18 @@
-
-#elem1 {
-    position: relative;
-    top: 80px;
-    left: 40px;
-    width: 100px;
-    height: 100px;
-    margin-bottom: 20px;
-    background-color: #FF8888;
+#parent {
+    position: absolute;
+    top: 100px;
+    left: 200px;
+    
+    width: 500px;
+    height: 300px;
+    border: 1px solid red;
 }
-
-#elem2 {
-    position: relative;
-    top: 40px;
-    left: 80px;
-    width: 100px;
-    height: 100px;
-    margin-bottom: 20px;
-    background-color: #7E89EB;
-}
-#elem3 {
-    position: relative;
-    left: 160px;
-    width: 100px;
-    height: 100px;
-    margin-bottom: 20px;
-    background-color: #4DEE99;
+#child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
 }
