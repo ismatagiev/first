@@ -1,22 +1,10 @@
-h1{
-    text-align: right;
-}
-h2{
-    text-align: center;
-}
-h2{
-    width: 300px;
-}
 table{
-    width: 500px;
-}
-th{
-    text-align: left;
+    width: 300px;   
 }
 td{
+    font-family: bold;
     text-align: center;
 }
-p{
-    width: 300px;
-    text-align: justify;
+th{
+    font-family: normal;
 }
