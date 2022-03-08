@@ -1,10 +1,9 @@
-/* в данном случае 
-селектор выбирает конкретный эелемент, подзаголовок h2 при этом 
-не все h2, а именно класса header */
-
-h2.header{
-    font-size: 40px; 
+#elem1{
+    color: red;
 }
-h3.header{
-    font-size: 30px;
+#elem2{
+    color: green;
+}
+#elem3{
+    color: cyan;
 }
