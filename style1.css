@@ -1,6 +1,9 @@
-.ala{
-   color: red;
+.eee, .zzz, .ggg {
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial;
 }
-.ono{
-   color: green;
+
+.ggg {
+    font-size: 35px;
 }
