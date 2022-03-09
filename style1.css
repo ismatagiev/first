@@ -1,7 +1,4 @@
-h2 {
-    font-size: 20px;
+.elem + *{
+    color:  red;
+    font-size: 40px;
 }
-h2 {
-    font-size: 30px;
-} 
-/* заголовки h2 будут размером 30px */
