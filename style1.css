@@ -1,3 +1,6 @@
-.elem ~ ul li{
-    color: red;
+main * p {
+    color: darkred;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
 }
