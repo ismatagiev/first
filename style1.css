@@ -1,3 +1,7 @@
-.fff h2.bbb{
-    color: green;
+h2 {
+    font-size: 20px;
 }
+h2 {
+    font-size: 30px;
+} 
+/* заголовки h2 будут размером 30px */
