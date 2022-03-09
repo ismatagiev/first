@@ -1,4 +1,3 @@
-.elem + *{
-    color:  red;
-    font-size: 40px;
+.elem ~ ul li{
+    color: red;
 }
