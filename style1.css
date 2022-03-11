@@ -1,6 +1,13 @@
-main * p {
-    color: darkred;
-    font-size: 40px;
-    font-family: sans-serif;
-    text-align: center;
-}
+ a: hover{
+    text-decoration: none;
+    color: red;
+ }
+ a:link{
+    color: cyan;
+ }
+ a: visited{
+    color: green;
+ }
+ a:active{
+    color: black;
+ }
