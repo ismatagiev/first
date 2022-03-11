@@ -1,13 +1,7 @@
- a: hover{
-    text-decoration: none;
-    color: red;
- }
- a:link{
+ a.aa{
     color: cyan;
+    text-decoration: none;
  }
- a: visited{
+ a.oo : visited{
     color: green;
- }
- a:active{
-    color: black;
  }
