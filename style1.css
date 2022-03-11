@@ -1,6 +1,7 @@
-.block a.zzz {
-    color: red;
+li:not(.elem){
+    color: darkgray;
 }
-.block a.zzz:hover {
-    text-decoration: none;
+
+li:only-child{
+    color: cyan;
 }
