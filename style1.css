@@ -1,7 +1,4 @@
-li:not(.elem){
-    color: darkgray;
-}
 
-li:only-child{
-    color: cyan;
+li:not(:first-child){
+    color: red;
 }
