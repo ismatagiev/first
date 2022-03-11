@@ -1,17 +1,6 @@
-a{
-    color:  darkcyan;
-}
-#block a.zzz {
+.block a.zzz {
     color: red;
 }
-#block a.zzz:hover {
+.block a.zzz:hover {
     text-decoration: none;
 }
-a:hover{
-    color: red;
-    text-decoration: underline;
-}
-
-p{
-    color:  #b20f1f;
-} 
