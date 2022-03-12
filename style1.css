@@ -1,4 +1,8 @@
-
-li:not(:first-child){
-    color: red;
+div {
+  border: 1px dashed black;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+h2:only-of-type {
+  color: red;
 }
