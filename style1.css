@@ -3,7 +3,7 @@
     height: 300px;
     flex-direction: column-reverse;
     justify-content: flex-end;
-    flex-direction: row-reverse;
+    align-items: flex-start;
     justify-content: flex-start;
     align-items: flex-end;
     border: 1px solid red;
