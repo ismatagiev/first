@@ -1,14 +1,18 @@
 .parent {
     display: flex;
+    height: 300px;
+    flex-direction: row;
     flex-direction: column;
-    justify-content: space-between;
-    align-items: stretch;
-    width: 900px;
-    height: 400px;
-    margin: 20px auto;
+    justify-content: center;
+    align-items: center;
     border: 1px solid red;
-}
-.child {
-    height: 40px;
+    width: 100px;
+    height: 100px;
     border: 1px solid green;
 }
+.elem {
+    width: 40px;
+    height: 60px;
+    order: -1;
+    border: 1px solid red;
+} 
