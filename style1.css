@@ -1,12 +1,10 @@
 .parent {
     display: flex;
     height: 300px;
-    flex-direction: row-reverse;
+    flex-direction: column-reverse;
+    flex-direction: row;
     justify-content: flex-start;
     align-items: flex-end;
-    flex-direction: column-reverse;
-    justify-content: flex-end;
-    align-items: flex-start;
     border: 1px solid red;
 }
 .child {
