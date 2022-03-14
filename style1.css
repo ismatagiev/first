@@ -1,6 +1,6 @@
 .parent{
     display: flex;
-    flex-direction: column-reverse;
+    flex-direction: unset;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
