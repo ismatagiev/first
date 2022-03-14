@@ -1,6 +1,6 @@
 .parent {
     display: flex;
-    flex-direction: row;
+    flex-direction: column-reverse;
     justify-content: space-between;
     align-items: flex-end;
     width: 900px;
@@ -8,6 +8,7 @@
     margin: 20px auto;
     border: 1px solid red;
 }
+
 .child {
     width: 120px;
     height: 60px;
